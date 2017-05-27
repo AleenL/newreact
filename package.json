@@ -1,7 +1,7 @@
 {
   "name": "new_react",
   "version": "0.1.0",
-  "homepage":"https://github.com/AleenL/newreact/build",
+  "homepage":"https://aleenl.github.io/newreact/build",
   "private": true,
   "dependencies": {
     "react": "^15.5.4",
